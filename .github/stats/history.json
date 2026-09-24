@@ -1,0 +1,2045 @@
+{
+ "version": 1,
+ "plugins": {
+  "deck-dashboard": [
+   {
+    "date": "2026-06-19",
+    "downloads": 4
+   },
+   {
+    "date": "2026-06-20",
+    "downloads": 4
+   },
+   {
+    "date": "2026-06-21",
+    "downloads": 27
+   },
+   {
+    "date": "2026-06-22",
+    "downloads": 45
+   },
+   {
+    "date": "2026-06-23",
+    "downloads": 54
+   },
+   {
+    "date": "2026-06-24",
+    "downloads": 54
+   },
+   {
+    "date": "2026-06-25",
+    "downloads": 68
+   },
+   {
+    "date": "2026-06-26",
+    "downloads": 75
+   },
+   {
+    "date": "2026-06-27",
+    "downloads": 81
+   },
+   {
+    "date": "2026-06-28",
+    "downloads": 81
+   },
+   {
+    "date": "2026-06-29",
+    "downloads": 89
+   },
+   {
+    "date": "2026-06-30",
+    "downloads": 91
+   },
+   {
+    "date": "2026-07-01",
+    "downloads": 98
+   },
+   {
+    "date": "2026-07-02",
+    "downloads": 109
+   },
+   {
+    "date": "2026-07-03",
+    "downloads": 109
+   },
+   {
+    "date": "2026-07-04",
+    "downloads": 115
+   },
+   {
+    "date": "2026-07-05",
+    "downloads": 118
+   },
+   {
+    "date": "2026-07-06",
+    "downloads": 158
+   },
+   {
+    "date": "2026-07-07",
+    "downloads": 162
+   },
+   {
+    "date": "2026-07-08",
+    "downloads": 168
+   },
+   {
+    "date": "2026-07-09",
+    "downloads": 168
+   },
+   {
+    "date": "2026-07-10",
+    "downloads": 169
+   },
+   {
+    "date": "2026-07-11",
+    "downloads": 174
+   },
+   {
+    "date": "2026-07-12",
+    "downloads": 175
+   },
+   {
+    "date": "2026-07-13",
+    "downloads": 192
+   },
+   {
+    "date": "2026-07-14",
+    "downloads": 199
+   },
+   {
+    "date": "2026-07-15",
+    "downloads": 201
+   },
+   {
+    "date": "2026-07-16",
+    "downloads": 205
+   },
+   {
+    "date": "2026-07-17",
+    "downloads": 205
+   },
+   {
+    "date": "2026-07-18",
+    "downloads": 209
+   },
+   {
+    "date": "2026-07-19",
+    "downloads": 214
+   },
+   {
+    "date": "2026-07-20",
+    "downloads": 219
+   },
+   {
+    "date": "2026-07-21",
+    "downloads": 221
+   },
+   {
+    "date": "2026-07-22",
+    "downloads": 222
+   },
+   {
+    "date": "2026-07-23",
+    "downloads": 223
+   },
+   {
+    "date": "2026-07-24",
+    "downloads": 223
+   },
+   {
+    "date": "2026-07-25",
+    "downloads": 223
+   },
+   {
+    "date": "2026-07-26",
+    "downloads": 226
+   },
+   {
+    "date": "2026-07-27",
+    "downloads": 230
+   },
+   {
+    "date": "2026-07-28",
+    "downloads": 235
+   },
+   {
+    "date": "2026-07-29",
+    "downloads": 238
+   },
+   {
+    "date": "2026-07-30",
+    "downloads": 242
+   },
+   {
+    "date": "2026-07-31",
+    "downloads": 245
+   },
+   {
+    "date": "2026-08-01",
+    "downloads": 247
+   },
+   {
+    "date": "2026-08-02",
+    "downloads": 252
+   },
+   {
+    "date": "2026-08-03",
+    "downloads": 253
+   },
+   {
+    "date": "2026-08-04",
+    "downloads": 261
+   },
+   {
+    "date": "2026-08-05",
+    "downloads": 261
+   },
+   {
+    "date": "2026-08-06",
+    "downloads": 261
+   },
+   {
+    "date": "2026-08-07",
+    "downloads": 267
+   },
+   {
+    "date": "2026-08-08",
+    "downloads": 267
+   },
+   {
+    "date": "2026-08-09",
+    "downloads": 270
+   },
+   {
+    "date": "2026-08-10",
+    "downloads": 271
+   },
+   {
+    "date": "2026-08-11",
+    "downloads": 277
+   },
+   {
+    "date": "2026-08-12",
+    "downloads": 279
+   },
+   {
+    "date": "2026-08-13",
+    "downloads": 279
+   },
+   {
+    "date": "2026-08-14",
+    "downloads": 281
+   },
+   {
+    "date": "2026-08-15",
+    "downloads": 286
+   },
+   {
+    "date": "2026-08-16",
+    "downloads": 291
+   },
+   {
+    "date": "2026-08-17",
+    "downloads": 291
+   },
+   {
+    "date": "2026-08-18",
+    "downloads": 294
+   },
+   {
+    "date": "2026-08-19",
+    "downloads": 302
+   },
+   {
+    "date": "2026-08-20",
+    "downloads": 303
+   },
+   {
+    "date": "2026-08-21",
+    "downloads": 303
+   },
+   {
+    "date": "2026-08-22",
+    "downloads": 305
+   },
+   {
+    "date": "2026-08-23",
+    "downloads": 306
+   },
+   {
+    "date": "2026-08-24",
+    "downloads": 306
+   },
+   {
+    "date": "2026-08-25",
+    "downloads": 321
+   },
+   {
+    "date": "2026-08-26",
+    "downloads": 321
+   },
+   {
+    "date": "2026-08-27",
+    "downloads": 333
+   },
+   {
+    "date": "2026-08-28",
+    "downloads": 365
+   },
+   {
+    "date": "2026-08-29",
+    "downloads": 365
+   },
+   {
+    "date": "2026-08-30",
+    "downloads": 367
+   },
+   {
+    "date": "2026-08-31",
+    "downloads": 367
+   },
+   {
+    "date": "2026-09-01",
+    "downloads": 378
+   },
+   {
+    "date": "2026-09-02",
+    "downloads": 378
+   },
+   {
+    "date": "2026-09-03",
+    "downloads": 402
+   },
+   {
+    "date": "2026-09-04",
+    "downloads": 402
+   },
+   {
+    "date": "2026-09-05",
+    "downloads": 413
+   },
+   {
+    "date": "2026-09-06",
+    "downloads": 445
+   },
+   {
+    "date": "2026-09-07",
+    "downloads": 461
+   },
+   {
+    "date": "2026-09-08",
+    "downloads": 483
+   },
+   {
+    "date": "2026-09-09",
+    "downloads": 509
+   },
+   {
+    "date": "2026-09-10",
+    "downloads": 530
+   },
+   {
+    "date": "2026-09-11",
+    "downloads": 551
+   },
+   {
+    "date": "2026-09-12",
+    "downloads": 572
+   },
+   {
+    "date": "2026-09-13",
+    "downloads": 583
+   },
+   {
+    "date": "2026-09-14",
+    "downloads": 598
+   },
+   {
+    "date": "2026-09-15",
+    "downloads": 613
+   },
+   {
+    "date": "2026-09-16",
+    "downloads": 636
+   },
+   {
+    "date": "2026-09-17",
+    "downloads": 659
+   },
+   {
+    "date": "2026-09-18",
+    "downloads": 680
+   },
+   {
+    "date": "2026-09-19",
+    "downloads": 706
+   },
+   {
+    "date": "2026-09-20",
+    "downloads": 727
+   },
+   {
+    "date": "2026-09-21",
+    "downloads": 733
+   },
+   {
+    "date": "2026-09-22",
+    "downloads": 750
+   },
+   {
+    "date": "2026-09-23",
+    "downloads": 775
+   },
+   {
+    "date": "2026-09-24",
+    "downloads": 796
+   }
+  ],
+  "pptx-studio": [
+   {
+    "date": "2026-09-01",
+    "downloads": 4
+   },
+   {
+    "date": "2026-09-02",
+    "downloads": 29
+   },
+   {
+    "date": "2026-09-03",
+    "downloads": 40
+   },
+   {
+    "date": "2026-09-04",
+    "downloads": 40
+   },
+   {
+    "date": "2026-09-05",
+    "downloads": 56
+   },
+   {
+    "date": "2026-09-06",
+    "downloads": 85
+   },
+   {
+    "date": "2026-09-07",
+    "downloads": 96
+   },
+   {
+    "date": "2026-09-08",
+    "downloads": 107
+   },
+   {
+    "date": "2026-09-09",
+    "downloads": 142
+   },
+   {
+    "date": "2026-09-10",
+    "downloads": 170
+   },
+   {
+    "date": "2026-09-11",
+    "downloads": 186
+   },
+   {
+    "date": "2026-09-12",
+    "downloads": 210
+   },
+   {
+    "date": "2026-09-13",
+    "downloads": 235
+   },
+   {
+    "date": "2026-09-14",
+    "downloads": 240
+   },
+   {
+    "date": "2026-09-15",
+    "downloads": 264
+   },
+   {
+    "date": "2026-09-16",
+    "downloads": 298
+   },
+   {
+    "date": "2026-09-17",
+    "downloads": 322
+   },
+   {
+    "date": "2026-09-18",
+    "downloads": 346
+   },
+   {
+    "date": "2026-09-19",
+    "downloads": 384
+   },
+   {
+    "date": "2026-09-20",
+    "downloads": 402
+   },
+   {
+    "date": "2026-09-21",
+    "downloads": 415
+   },
+   {
+    "date": "2026-09-22",
+    "downloads": 434
+   },
+   {
+    "date": "2026-09-23",
+    "downloads": 457
+   },
+   {
+    "date": "2026-09-24",
+    "downloads": 494
+   }
+  ],
+  "meeting-detector": [
+   {
+    "date": "2026-05-31",
+    "downloads": 3
+   },
+   {
+    "date": "2026-06-01",
+    "downloads": 8
+   },
+   {
+    "date": "2026-06-02",
+    "downloads": 16
+   },
+   {
+    "date": "2026-06-03",
+    "downloads": 23
+   },
+   {
+    "date": "2026-06-04",
+    "downloads": 29
+   },
+   {
+    "date": "2026-06-05",
+    "downloads": 32
+   },
+   {
+    "date": "2026-06-06",
+    "downloads": 36
+   },
+   {
+    "date": "2026-06-07",
+    "downloads": 38
+   },
+   {
+    "date": "2026-06-08",
+    "downloads": 38
+   },
+   {
+    "date": "2026-06-09",
+    "downloads": 39
+   },
+   {
+    "date": "2026-06-10",
+    "downloads": 44
+   },
+   {
+    "date": "2026-06-11",
+    "downloads": 48
+   },
+   {
+    "date": "2026-06-12",
+    "downloads": 49
+   },
+   {
+    "date": "2026-06-13",
+    "downloads": 51
+   },
+   {
+    "date": "2026-06-14",
+    "downloads": 54
+   },
+   {
+    "date": "2026-06-15",
+    "downloads": 55
+   },
+   {
+    "date": "2026-06-16",
+    "downloads": 58
+   },
+   {
+    "date": "2026-06-17",
+    "downloads": 58
+   },
+   {
+    "date": "2026-06-18",
+    "downloads": 62
+   },
+   {
+    "date": "2026-06-19",
+    "downloads": 69
+   },
+   {
+    "date": "2026-06-20",
+    "downloads": 69
+   },
+   {
+    "date": "2026-06-21",
+    "downloads": 76
+   },
+   {
+    "date": "2026-06-22",
+    "downloads": 76
+   },
+   {
+    "date": "2026-06-23",
+    "downloads": 78
+   },
+   {
+    "date": "2026-06-24",
+    "downloads": 78
+   },
+   {
+    "date": "2026-06-25",
+    "downloads": 81
+   },
+   {
+    "date": "2026-06-26",
+    "downloads": 81
+   },
+   {
+    "date": "2026-06-27",
+    "downloads": 85
+   },
+   {
+    "date": "2026-06-28",
+    "downloads": 85
+   },
+   {
+    "date": "2026-06-29",
+    "downloads": 87
+   },
+   {
+    "date": "2026-06-30",
+    "downloads": 88
+   },
+   {
+    "date": "2026-07-01",
+    "downloads": 88
+   },
+   {
+    "date": "2026-07-02",
+    "downloads": 90
+   },
+   {
+    "date": "2026-07-03",
+    "downloads": 92
+   },
+   {
+    "date": "2026-07-04",
+    "downloads": 98
+   },
+   {
+    "date": "2026-07-05",
+    "downloads": 111
+   },
+   {
+    "date": "2026-07-06",
+    "downloads": 111
+   },
+   {
+    "date": "2026-07-07",
+    "downloads": 146
+   },
+   {
+    "date": "2026-07-08",
+    "downloads": 146
+   },
+   {
+    "date": "2026-07-09",
+    "downloads": 152
+   },
+   {
+    "date": "2026-07-10",
+    "downloads": 162
+   },
+   {
+    "date": "2026-07-11",
+    "downloads": 162
+   },
+   {
+    "date": "2026-07-12",
+    "downloads": 168
+   },
+   {
+    "date": "2026-07-13",
+    "downloads": 171
+   },
+   {
+    "date": "2026-07-14",
+    "downloads": 174
+   },
+   {
+    "date": "2026-07-15",
+    "downloads": 183
+   },
+   {
+    "date": "2026-07-16",
+    "downloads": 183
+   },
+   {
+    "date": "2026-07-17",
+    "downloads": 193
+   },
+   {
+    "date": "2026-07-18",
+    "downloads": 195
+   },
+   {
+    "date": "2026-07-19",
+    "downloads": 196
+   },
+   {
+    "date": "2026-07-20",
+    "downloads": 196
+   },
+   {
+    "date": "2026-07-21",
+    "downloads": 197
+   },
+   {
+    "date": "2026-07-22",
+    "downloads": 198
+   },
+   {
+    "date": "2026-07-23",
+    "downloads": 204
+   },
+   {
+    "date": "2026-07-24",
+    "downloads": 206
+   },
+   {
+    "date": "2026-07-25",
+    "downloads": 213
+   },
+   {
+    "date": "2026-07-26",
+    "downloads": 218
+   },
+   {
+    "date": "2026-07-27",
+    "downloads": 218
+   },
+   {
+    "date": "2026-07-28",
+    "downloads": 219
+   },
+   {
+    "date": "2026-07-29",
+    "downloads": 219
+   },
+   {
+    "date": "2026-07-30",
+    "downloads": 220
+   },
+   {
+    "date": "2026-07-31",
+    "downloads": 224
+   },
+   {
+    "date": "2026-08-01",
+    "downloads": 228
+   },
+   {
+    "date": "2026-08-02",
+    "downloads": 236
+   },
+   {
+    "date": "2026-08-03",
+    "downloads": 236
+   },
+   {
+    "date": "2026-08-04",
+    "downloads": 240
+   },
+   {
+    "date": "2026-08-05",
+    "downloads": 241
+   },
+   {
+    "date": "2026-08-06",
+    "downloads": 241
+   },
+   {
+    "date": "2026-08-07",
+    "downloads": 249
+   },
+   {
+    "date": "2026-08-08",
+    "downloads": 249
+   },
+   {
+    "date": "2026-08-09",
+    "downloads": 251
+   },
+   {
+    "date": "2026-08-10",
+    "downloads": 251
+   },
+   {
+    "date": "2026-08-11",
+    "downloads": 252
+   },
+   {
+    "date": "2026-08-12",
+    "downloads": 254
+   },
+   {
+    "date": "2026-08-13",
+    "downloads": 254
+   },
+   {
+    "date": "2026-08-14",
+    "downloads": 257
+   },
+   {
+    "date": "2026-08-15",
+    "downloads": 257
+   },
+   {
+    "date": "2026-08-16",
+    "downloads": 267
+   },
+   {
+    "date": "2026-08-17",
+    "downloads": 267
+   },
+   {
+    "date": "2026-08-18",
+    "downloads": 270
+   },
+   {
+    "date": "2026-08-19",
+    "downloads": 274
+   },
+   {
+    "date": "2026-08-20",
+    "downloads": 282
+   },
+   {
+    "date": "2026-08-21",
+    "downloads": 282
+   },
+   {
+    "date": "2026-08-22",
+    "downloads": 285
+   },
+   {
+    "date": "2026-08-23",
+    "downloads": 288
+   },
+   {
+    "date": "2026-08-24",
+    "downloads": 291
+   },
+   {
+    "date": "2026-08-25",
+    "downloads": 293
+   },
+   {
+    "date": "2026-08-26",
+    "downloads": 293
+   },
+   {
+    "date": "2026-08-27",
+    "downloads": 295
+   },
+   {
+    "date": "2026-08-28",
+    "downloads": 296
+   },
+   {
+    "date": "2026-08-29",
+    "downloads": 298
+   },
+   {
+    "date": "2026-08-30",
+    "downloads": 300
+   },
+   {
+    "date": "2026-08-31",
+    "downloads": 300
+   },
+   {
+    "date": "2026-09-01",
+    "downloads": 300
+   },
+   {
+    "date": "2026-09-02",
+    "downloads": 302
+   },
+   {
+    "date": "2026-09-03",
+    "downloads": 309
+   },
+   {
+    "date": "2026-09-04",
+    "downloads": 309
+   },
+   {
+    "date": "2026-09-05",
+    "downloads": 310
+   },
+   {
+    "date": "2026-09-06",
+    "downloads": 314
+   },
+   {
+    "date": "2026-09-07",
+    "downloads": 318
+   },
+   {
+    "date": "2026-09-08",
+    "downloads": 321
+   },
+   {
+    "date": "2026-09-09",
+    "downloads": 327
+   },
+   {
+    "date": "2026-09-10",
+    "downloads": 332
+   },
+   {
+    "date": "2026-09-11",
+    "downloads": 335
+   },
+   {
+    "date": "2026-09-12",
+    "downloads": 346
+   },
+   {
+    "date": "2026-09-13",
+    "downloads": 346
+   },
+   {
+    "date": "2026-09-14",
+    "downloads": 346
+   },
+   {
+    "date": "2026-09-15",
+    "downloads": 353
+   },
+   {
+    "date": "2026-09-16",
+    "downloads": 366
+   },
+   {
+    "date": "2026-09-17",
+    "downloads": 369
+   },
+   {
+    "date": "2026-09-18",
+    "downloads": 371
+   },
+   {
+    "date": "2026-09-19",
+    "downloads": 374
+   },
+   {
+    "date": "2026-09-20",
+    "downloads": 376
+   },
+   {
+    "date": "2026-09-21",
+    "downloads": 377
+   },
+   {
+    "date": "2026-09-22",
+    "downloads": 377
+   },
+   {
+    "date": "2026-09-23",
+    "downloads": 379
+   },
+   {
+    "date": "2026-09-24",
+    "downloads": 381
+   }
+  ],
+  "system-recording": [
+   {
+    "date": "2026-05-31",
+    "downloads": 8
+   },
+   {
+    "date": "2026-06-01",
+    "downloads": 8
+   },
+   {
+    "date": "2026-06-02",
+    "downloads": 21
+   },
+   {
+    "date": "2026-06-03",
+    "downloads": 23
+   },
+   {
+    "date": "2026-06-04",
+    "downloads": 29
+   },
+   {
+    "date": "2026-06-05",
+    "downloads": 31
+   },
+   {
+    "date": "2026-06-06",
+    "downloads": 31
+   },
+   {
+    "date": "2026-06-07",
+    "downloads": 31
+   },
+   {
+    "date": "2026-06-08",
+    "downloads": 31
+   },
+   {
+    "date": "2026-06-09",
+    "downloads": 31
+   },
+   {
+    "date": "2026-06-10",
+    "downloads": 39
+   },
+   {
+    "date": "2026-06-11",
+    "downloads": 40
+   },
+   {
+    "date": "2026-06-12",
+    "downloads": 43
+   },
+   {
+    "date": "2026-06-13",
+    "downloads": 43
+   },
+   {
+    "date": "2026-06-14",
+    "downloads": 43
+   },
+   {
+    "date": "2026-06-15",
+    "downloads": 45
+   },
+   {
+    "date": "2026-06-16",
+    "downloads": 45
+   },
+   {
+    "date": "2026-06-17",
+    "downloads": 45
+   },
+   {
+    "date": "2026-06-18",
+    "downloads": 49
+   },
+   {
+    "date": "2026-06-19",
+    "downloads": 50
+   },
+   {
+    "date": "2026-06-20",
+    "downloads": 50
+   },
+   {
+    "date": "2026-06-21",
+    "downloads": 57
+   },
+   {
+    "date": "2026-06-22",
+    "downloads": 61
+   },
+   {
+    "date": "2026-06-23",
+    "downloads": 64
+   },
+   {
+    "date": "2026-06-24",
+    "downloads": 64
+   },
+   {
+    "date": "2026-06-25",
+    "downloads": 68
+   },
+   {
+    "date": "2026-06-26",
+    "downloads": 69
+   },
+   {
+    "date": "2026-06-27",
+    "downloads": 72
+   },
+   {
+    "date": "2026-06-28",
+    "downloads": 72
+   },
+   {
+    "date": "2026-06-29",
+    "downloads": 72
+   },
+   {
+    "date": "2026-06-30",
+    "downloads": 73
+   },
+   {
+    "date": "2026-07-01",
+    "downloads": 73
+   },
+   {
+    "date": "2026-07-02",
+    "downloads": 73
+   },
+   {
+    "date": "2026-07-03",
+    "downloads": 73
+   },
+   {
+    "date": "2026-07-04",
+    "downloads": 75
+   },
+   {
+    "date": "2026-07-05",
+    "downloads": 75
+   },
+   {
+    "date": "2026-07-06",
+    "downloads": 102
+   },
+   {
+    "date": "2026-07-07",
+    "downloads": 112
+   },
+   {
+    "date": "2026-07-08",
+    "downloads": 113
+   },
+   {
+    "date": "2026-07-09",
+    "downloads": 113
+   },
+   {
+    "date": "2026-07-10",
+    "downloads": 116
+   },
+   {
+    "date": "2026-07-11",
+    "downloads": 116
+   },
+   {
+    "date": "2026-07-12",
+    "downloads": 117
+   },
+   {
+    "date": "2026-07-13",
+    "downloads": 121
+   },
+   {
+    "date": "2026-07-14",
+    "downloads": 123
+   },
+   {
+    "date": "2026-07-15",
+    "downloads": 125
+   },
+   {
+    "date": "2026-07-16",
+    "downloads": 126
+   },
+   {
+    "date": "2026-07-17",
+    "downloads": 126
+   },
+   {
+    "date": "2026-07-18",
+    "downloads": 130
+   },
+   {
+    "date": "2026-07-19",
+    "downloads": 132
+   },
+   {
+    "date": "2026-07-20",
+    "downloads": 133
+   },
+   {
+    "date": "2026-07-21",
+    "downloads": 133
+   },
+   {
+    "date": "2026-07-22",
+    "downloads": 134
+   },
+   {
+    "date": "2026-07-23",
+    "downloads": 134
+   },
+   {
+    "date": "2026-07-24",
+    "downloads": 134
+   },
+   {
+    "date": "2026-07-25",
+    "downloads": 138
+   },
+   {
+    "date": "2026-07-26",
+    "downloads": 138
+   },
+   {
+    "date": "2026-07-27",
+    "downloads": 138
+   },
+   {
+    "date": "2026-07-28",
+    "downloads": 138
+   },
+   {
+    "date": "2026-07-29",
+    "downloads": 141
+   },
+   {
+    "date": "2026-07-30",
+    "downloads": 142
+   },
+   {
+    "date": "2026-07-31",
+    "downloads": 143
+   },
+   {
+    "date": "2026-08-01",
+    "downloads": 146
+   },
+   {
+    "date": "2026-08-02",
+    "downloads": 147
+   },
+   {
+    "date": "2026-08-03",
+    "downloads": 147
+   },
+   {
+    "date": "2026-08-04",
+    "downloads": 147
+   },
+   {
+    "date": "2026-08-05",
+    "downloads": 147
+   },
+   {
+    "date": "2026-08-06",
+    "downloads": 148
+   },
+   {
+    "date": "2026-08-07",
+    "downloads": 149
+   },
+   {
+    "date": "2026-08-08",
+    "downloads": 149
+   },
+   {
+    "date": "2026-08-09",
+    "downloads": 150
+   },
+   {
+    "date": "2026-08-10",
+    "downloads": 151
+   },
+   {
+    "date": "2026-08-11",
+    "downloads": 152
+   },
+   {
+    "date": "2026-08-12",
+    "downloads": 153
+   },
+   {
+    "date": "2026-08-13",
+    "downloads": 153
+   },
+   {
+    "date": "2026-08-14",
+    "downloads": 155
+   },
+   {
+    "date": "2026-08-15",
+    "downloads": 156
+   },
+   {
+    "date": "2026-08-16",
+    "downloads": 157
+   },
+   {
+    "date": "2026-08-17",
+    "downloads": 157
+   },
+   {
+    "date": "2026-08-18",
+    "downloads": 157
+   },
+   {
+    "date": "2026-08-19",
+    "downloads": 158
+   },
+   {
+    "date": "2026-08-20",
+    "downloads": 159
+   },
+   {
+    "date": "2026-08-21",
+    "downloads": 161
+   },
+   {
+    "date": "2026-08-22",
+    "downloads": 161
+   },
+   {
+    "date": "2026-08-23",
+    "downloads": 162
+   },
+   {
+    "date": "2026-08-24",
+    "downloads": 162
+   },
+   {
+    "date": "2026-08-25",
+    "downloads": 162
+   },
+   {
+    "date": "2026-08-26",
+    "downloads": 166
+   },
+   {
+    "date": "2026-08-27",
+    "downloads": 167
+   },
+   {
+    "date": "2026-08-28",
+    "downloads": 167
+   },
+   {
+    "date": "2026-08-29",
+    "downloads": 167
+   },
+   {
+    "date": "2026-08-30",
+    "downloads": 167
+   },
+   {
+    "date": "2026-08-31",
+    "downloads": 168
+   },
+   {
+    "date": "2026-09-01",
+    "downloads": 169
+   },
+   {
+    "date": "2026-09-02",
+    "downloads": 169
+   },
+   {
+    "date": "2026-09-03",
+    "downloads": 170
+   },
+   {
+    "date": "2026-09-04",
+    "downloads": 170
+   },
+   {
+    "date": "2026-09-05",
+    "downloads": 170
+   },
+   {
+    "date": "2026-09-06",
+    "downloads": 171
+   },
+   {
+    "date": "2026-09-07",
+    "downloads": 171
+   },
+   {
+    "date": "2026-09-08",
+    "downloads": 172
+   },
+   {
+    "date": "2026-09-09",
+    "downloads": 172
+   },
+   {
+    "date": "2026-09-10",
+    "downloads": 172
+   },
+   {
+    "date": "2026-09-11",
+    "downloads": 174
+   },
+   {
+    "date": "2026-09-12",
+    "downloads": 174
+   },
+   {
+    "date": "2026-09-13",
+    "downloads": 177
+   },
+   {
+    "date": "2026-09-14",
+    "downloads": 177
+   },
+   {
+    "date": "2026-09-15",
+    "downloads": 177
+   },
+   {
+    "date": "2026-09-16",
+    "downloads": 178
+   },
+   {
+    "date": "2026-09-17",
+    "downloads": 181
+   },
+   {
+    "date": "2026-09-18",
+    "downloads": 183
+   },
+   {
+    "date": "2026-09-19",
+    "downloads": 183
+   },
+   {
+    "date": "2026-09-20",
+    "downloads": 184
+   },
+   {
+    "date": "2026-09-21",
+    "downloads": 185
+   },
+   {
+    "date": "2026-09-22",
+    "downloads": 185
+   },
+   {
+    "date": "2026-09-23",
+    "downloads": 187
+   },
+   {
+    "date": "2026-09-24",
+    "downloads": 188
+   }
+  ],
+  "share-hosted": [
+   {
+    "date": "2026-05-31",
+    "downloads": 4
+   },
+   {
+    "date": "2026-06-01",
+    "downloads": 4
+   },
+   {
+    "date": "2026-06-02",
+    "downloads": 15
+   },
+   {
+    "date": "2026-06-03",
+    "downloads": 18
+   },
+   {
+    "date": "2026-06-04",
+    "downloads": 18
+   },
+   {
+    "date": "2026-06-05",
+    "downloads": 18
+   },
+   {
+    "date": "2026-06-06",
+    "downloads": 18
+   },
+   {
+    "date": "2026-06-07",
+    "downloads": 18
+   },
+   {
+    "date": "2026-06-08",
+    "downloads": 18
+   },
+   {
+    "date": "2026-06-09",
+    "downloads": 18
+   },
+   {
+    "date": "2026-06-10",
+    "downloads": 22
+   },
+   {
+    "date": "2026-06-11",
+    "downloads": 22
+   },
+   {
+    "date": "2026-06-12",
+    "downloads": 23
+   },
+   {
+    "date": "2026-06-13",
+    "downloads": 23
+   },
+   {
+    "date": "2026-06-14",
+    "downloads": 23
+   },
+   {
+    "date": "2026-06-15",
+    "downloads": 24
+   },
+   {
+    "date": "2026-06-16",
+    "downloads": 24
+   },
+   {
+    "date": "2026-06-17",
+    "downloads": 24
+   },
+   {
+    "date": "2026-06-18",
+    "downloads": 24
+   },
+   {
+    "date": "2026-06-19",
+    "downloads": 25
+   },
+   {
+    "date": "2026-06-20",
+    "downloads": 25
+   },
+   {
+    "date": "2026-06-21",
+    "downloads": 25
+   },
+   {
+    "date": "2026-06-22",
+    "downloads": 25
+   },
+   {
+    "date": "2026-06-23",
+    "downloads": 26
+   },
+   {
+    "date": "2026-06-24",
+    "downloads": 26
+   },
+   {
+    "date": "2026-06-25",
+    "downloads": 27
+   },
+   {
+    "date": "2026-06-26",
+    "downloads": 27
+   },
+   {
+    "date": "2026-06-27",
+    "downloads": 27
+   },
+   {
+    "date": "2026-06-28",
+    "downloads": 27
+   },
+   {
+    "date": "2026-06-29",
+    "downloads": 27
+   },
+   {
+    "date": "2026-06-30",
+    "downloads": 27
+   },
+   {
+    "date": "2026-07-01",
+    "downloads": 27
+   },
+   {
+    "date": "2026-07-02",
+    "downloads": 27
+   },
+   {
+    "date": "2026-07-03",
+    "downloads": 28
+   },
+   {
+    "date": "2026-07-04",
+    "downloads": 29
+   },
+   {
+    "date": "2026-07-05",
+    "downloads": 43
+   },
+   {
+    "date": "2026-07-06",
+    "downloads": 43
+   },
+   {
+    "date": "2026-07-07",
+    "downloads": 66
+   },
+   {
+    "date": "2026-07-08",
+    "downloads": 66
+   },
+   {
+    "date": "2026-07-09",
+    "downloads": 67
+   },
+   {
+    "date": "2026-07-10",
+    "downloads": 68
+   },
+   {
+    "date": "2026-07-11",
+    "downloads": 68
+   },
+   {
+    "date": "2026-07-12",
+    "downloads": 68
+   },
+   {
+    "date": "2026-07-13",
+    "downloads": 70
+   },
+   {
+    "date": "2026-07-14",
+    "downloads": 72
+   },
+   {
+    "date": "2026-07-15",
+    "downloads": 72
+   },
+   {
+    "date": "2026-07-16",
+    "downloads": 72
+   },
+   {
+    "date": "2026-07-17",
+    "downloads": 72
+   },
+   {
+    "date": "2026-07-18",
+    "downloads": 74
+   },
+   {
+    "date": "2026-07-19",
+    "downloads": 74
+   },
+   {
+    "date": "2026-07-20",
+    "downloads": 74
+   },
+   {
+    "date": "2026-07-21",
+    "downloads": 76
+   },
+   {
+    "date": "2026-07-22",
+    "downloads": 76
+   },
+   {
+    "date": "2026-07-23",
+    "downloads": 76
+   },
+   {
+    "date": "2026-07-24",
+    "downloads": 78
+   },
+   {
+    "date": "2026-07-25",
+    "downloads": 80
+   },
+   {
+    "date": "2026-07-26",
+    "downloads": 80
+   },
+   {
+    "date": "2026-07-27",
+    "downloads": 80
+   },
+   {
+    "date": "2026-07-28",
+    "downloads": 80
+   },
+   {
+    "date": "2026-07-29",
+    "downloads": 83
+   },
+   {
+    "date": "2026-07-30",
+    "downloads": 83
+   },
+   {
+    "date": "2026-07-31",
+    "downloads": 83
+   },
+   {
+    "date": "2026-08-01",
+    "downloads": 84
+   },
+   {
+    "date": "2026-08-02",
+    "downloads": 87
+   },
+   {
+    "date": "2026-08-03",
+    "downloads": 87
+   },
+   {
+    "date": "2026-08-04",
+    "downloads": 87
+   },
+   {
+    "date": "2026-08-05",
+    "downloads": 87
+   },
+   {
+    "date": "2026-08-06",
+    "downloads": 87
+   },
+   {
+    "date": "2026-08-07",
+    "downloads": 88
+   },
+   {
+    "date": "2026-08-08",
+    "downloads": 88
+   },
+   {
+    "date": "2026-08-09",
+    "downloads": 90
+   },
+   {
+    "date": "2026-08-10",
+    "downloads": 91
+   },
+   {
+    "date": "2026-08-11",
+    "downloads": 93
+   },
+   {
+    "date": "2026-08-12",
+    "downloads": 93
+   },
+   {
+    "date": "2026-08-13",
+    "downloads": 93
+   },
+   {
+    "date": "2026-08-14",
+    "downloads": 93
+   },
+   {
+    "date": "2026-08-15",
+    "downloads": 93
+   },
+   {
+    "date": "2026-08-16",
+    "downloads": 93
+   },
+   {
+    "date": "2026-08-17",
+    "downloads": 93
+   },
+   {
+    "date": "2026-08-18",
+    "downloads": 93
+   },
+   {
+    "date": "2026-08-19",
+    "downloads": 94
+   },
+   {
+    "date": "2026-08-20",
+    "downloads": 95
+   },
+   {
+    "date": "2026-08-21",
+    "downloads": 96
+   },
+   {
+    "date": "2026-08-22",
+    "downloads": 96
+   },
+   {
+    "date": "2026-08-23",
+    "downloads": 96
+   },
+   {
+    "date": "2026-08-24",
+    "downloads": 96
+   },
+   {
+    "date": "2026-08-25",
+    "downloads": 96
+   },
+   {
+    "date": "2026-08-26",
+    "downloads": 97
+   },
+   {
+    "date": "2026-08-27",
+    "downloads": 98
+   },
+   {
+    "date": "2026-08-28",
+    "downloads": 98
+   },
+   {
+    "date": "2026-08-29",
+    "downloads": 98
+   },
+   {
+    "date": "2026-08-30",
+    "downloads": 98
+   },
+   {
+    "date": "2026-08-31",
+    "downloads": 100
+   },
+   {
+    "date": "2026-09-01",
+    "downloads": 100
+   },
+   {
+    "date": "2026-09-02",
+    "downloads": 100
+   },
+   {
+    "date": "2026-09-03",
+    "downloads": 100
+   },
+   {
+    "date": "2026-09-04",
+    "downloads": 100
+   },
+   {
+    "date": "2026-09-05",
+    "downloads": 100
+   },
+   {
+    "date": "2026-09-06",
+    "downloads": 101
+   },
+   {
+    "date": "2026-09-07",
+    "downloads": 101
+   },
+   {
+    "date": "2026-09-08",
+    "downloads": 102
+   },
+   {
+    "date": "2026-09-09",
+    "downloads": 102
+   },
+   {
+    "date": "2026-09-10",
+    "downloads": 102
+   },
+   {
+    "date": "2026-09-11",
+    "downloads": 102
+   },
+   {
+    "date": "2026-09-12",
+    "downloads": 102
+   },
+   {
+    "date": "2026-09-13",
+    "downloads": 104
+   },
+   {
+    "date": "2026-09-14",
+    "downloads": 104
+   },
+   {
+    "date": "2026-09-15",
+    "downloads": 104
+   },
+   {
+    "date": "2026-09-16",
+    "downloads": 104
+   },
+   {
+    "date": "2026-09-17",
+    "downloads": 106
+   },
+   {
+    "date": "2026-09-18",
+    "downloads": 107
+   },
+   {
+    "date": "2026-09-19",
+    "downloads": 107
+   },
+   {
+    "date": "2026-09-20",
+    "downloads": 107
+   },
+   {
+    "date": "2026-09-21",
+    "downloads": 107
+   },
+   {
+    "date": "2026-09-22",
+    "downloads": 107
+   },
+   {
+    "date": "2026-09-23",
+    "downloads": 107
+   },
+   {
+    "date": "2026-09-24",
+    "downloads": 107
+   }
+  ],
+  "flint-chart": [
+   {
+    "date": "2026-08-22",
+    "downloads": 2
+   },
+   {
+    "date": "2026-08-23",
+    "downloads": 2
+   },
+   {
+    "date": "2026-08-24",
+    "downloads": 10
+   },
+   {
+    "date": "2026-08-25",
+    "downloads": 19
+   },
+   {
+    "date": "2026-08-26",
+    "downloads": 19
+   },
+   {
+    "date": "2026-08-27",
+    "downloads": 22
+   },
+   {
+    "date": "2026-08-28",
+    "downloads": 23
+   },
+   {
+    "date": "2026-08-29",
+    "downloads": 25
+   },
+   {
+    "date": "2026-08-30",
+    "downloads": 25
+   },
+   {
+    "date": "2026-08-31",
+    "downloads": 25
+   },
+   {
+    "date": "2026-09-01",
+    "downloads": 31
+   },
+   {
+    "date": "2026-09-02",
+    "downloads": 31
+   },
+   {
+    "date": "2026-09-03",
+    "downloads": 40
+   },
+   {
+    "date": "2026-09-04",
+    "downloads": 40
+   },
+   {
+    "date": "2026-09-05",
+    "downloads": 42
+   },
+   {
+    "date": "2026-09-06",
+    "downloads": 43
+   },
+   {
+    "date": "2026-09-07",
+    "downloads": 44
+   },
+   {
+    "date": "2026-09-08",
+    "downloads": 47
+   },
+   {
+    "date": "2026-09-09",
+    "downloads": 51
+   },
+   {
+    "date": "2026-09-10",
+    "downloads": 52
+   },
+   {
+    "date": "2026-09-11",
+    "downloads": 57
+   },
+   {
+    "date": "2026-09-12",
+    "downloads": 61
+   },
+   {
+    "date": "2026-09-13",
+    "downloads": 63
+   },
+   {
+    "date": "2026-09-14",
+    "downloads": 63
+   },
+   {
+    "date": "2026-09-15",
+    "downloads": 65
+   },
+   {
+    "date": "2026-09-16",
+    "downloads": 69
+   },
+   {
+    "date": "2026-09-17",
+    "downloads": 73
+   },
+   {
+    "date": "2026-09-18",
+    "downloads": 74
+   },
+   {
+    "date": "2026-09-19",
+    "downloads": 76
+   },
+   {
+    "date": "2026-09-20",
+    "downloads": 77
+   },
+   {
+    "date": "2026-09-21",
+    "downloads": 78
+   },
+   {
+    "date": "2026-09-22",
+    "downloads": 80
+   },
+   {
+    "date": "2026-09-23",
+    "downloads": 83
+   },
+   {
+    "date": "2026-09-24",
+    "downloads": 87
+   }
+  ]
+ }
+}

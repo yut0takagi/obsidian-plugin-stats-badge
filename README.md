@@ -11,9 +11,16 @@ public repository, and that git history goes back to October 2020 — so the his
 reconstructed from it rather than starting empty and filling in over the following months.
 
 ```markdown
-![Downloads](.github/stats/badge.svg)
-![Download history](.github/stats/downloads.svg)
+![Downloads](https://raw.githubusercontent.com/<you>/<repo>/main/.github/stats/badge.svg)
+![Download history](https://raw.githubusercontent.com/<you>/<repo>/main/.github/stats/downloads.svg)
 ```
+
+Here is this repository's own, updated daily by the workflow in
+[`.github/workflows/stats.yml`](.github/workflows/stats.yml):
+
+![Downloads](https://raw.githubusercontent.com/yut0takagi/obsidian-plugin-stats-badge/main/.github/stats/badge.svg)
+
+![Download history](https://raw.githubusercontent.com/yut0takagi/obsidian-plugin-stats-badge/main/.github/stats/downloads.svg)
 
 ## Usage
 
@@ -32,7 +39,7 @@ jobs:
   stats:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: yut0takagi/obsidian-plugin-stats-badge@v1
         with:
           plugin-id: your-plugin-id
