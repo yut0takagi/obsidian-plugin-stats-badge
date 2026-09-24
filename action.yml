@@ -1,0 +1,61 @@
+name: Obsidian Plugin Stats Badge
+description: Download badges and history charts for Obsidian community plugins, rendered as SVG for your README.
+author: yut0takagi
+
+branding:
+  icon: trending-up
+  color: purple
+
+inputs:
+  plugin-id:
+    description: >
+      Plugin id as it appears in your manifest.json, which is not always the repository name.
+      Pass several (comma- or newline-separated) to chart them together.
+    required: true
+  output-dir:
+    description: Directory the SVG and history files are written to.
+    required: false
+    default: .github/stats
+  backfill:
+    description: >
+      Reconstruct history from the upstream repository's git log on the first run, so the
+      chart is complete immediately instead of filling in over months. Takes around two
+      minutes and only runs for plugins with no stored history.
+    required: false
+    default: 'true'
+  days:
+    description: Chart only the last N days. 0 charts the whole history.
+    required: false
+    default: '0'
+  delta:
+    description: Chart downloads per day instead of the running total.
+    required: false
+    default: 'false'
+  chart-title:
+    description: Title drawn at the top of the chart.
+    required: false
+    default: Obsidian downloads
+  badge-label:
+    description: Left-hand text on the badge.
+    required: false
+    default: downloads
+  badge-color:
+    description: Right-hand plate colour on the badge.
+    required: false
+    default: '#7c3aed'
+  csv:
+    description: Also write history.csv alongside history.json.
+    required: false
+    default: 'false'
+
+outputs:
+  total:
+    description: Combined downloads across every requested plugin.
+  totals:
+    description: JSON object of downloads per plugin id.
+  files:
+    description: Newline-separated list of files written.
+
+runs:
+  using: node20
+  main: dist/index.js
