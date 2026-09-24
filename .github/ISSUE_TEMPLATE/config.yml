@@ -1,0 +1,7 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Obsidian plugin not in the community list
+    url: https://github.com/obsidianmd/obsidian-releases
+    about: >
+      If your plugin isn't in community-plugin-stats.json yet, there is no download data
+      to chart. Submission is handled in Obsidian's own repository.

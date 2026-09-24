@@ -1,0 +1,55 @@
+name: Bug report
+description: Something produced the wrong output, or nothing at all.
+labels: [bug]
+
+body:
+  - type: input
+    id: plugin-id
+    attributes:
+      label: Plugin id
+      description: >
+        The `id` field from your manifest.json, which is often not the repository name.
+      placeholder: my-plugin-id
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: What you expected, and what you got instead.
+    validations:
+      required: true
+
+  - type: textarea
+    id: workflow
+    attributes:
+      label: Your workflow step
+      description: The `uses:` block, with its inputs.
+      render: yaml
+      placeholder: |
+        - uses: yut0takagi/obsidian-plugin-stats-badge@v1
+          with:
+            plugin-id: my-plugin-id
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Run log
+      description: The output of the step. Redact anything private.
+      render: shell
+
+  - type: checkboxes
+    id: upstream
+    attributes:
+      label: Is the plugin in Obsidian's list?
+      description: >
+        Run this and tell us what it printed. If it says "not found", the plugin isn't in
+        the community list yet and no tool can chart it — newly accepted plugins appear
+        the next day.
+      options:
+        - label: >
+            I ran the check in CONTRIBUTING.md and the plugin is present in
+            community-plugin-stats.json

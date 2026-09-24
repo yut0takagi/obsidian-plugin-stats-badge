@@ -1,3 +1,7 @@
+# This is the author's own configuration, kept here so the action is exercised daily
+# against real data and the README shows a live chart. It is not a template: the plugin
+# ids below are specific to this author. For a copy-paste starting point, see the Usage
+# section of the README.
 name: Update download stats
 
 on:

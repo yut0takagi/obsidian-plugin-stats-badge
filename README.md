@@ -10,17 +10,18 @@ of downloads over time.
 public repository, and that git history goes back to October 2020 — so the history is
 reconstructed from it rather than starting empty and filling in over the following months.
 
+![Downloads](https://raw.githubusercontent.com/yut0takagi/obsidian-plugin-stats-badge/main/.github/stats/badge.svg)
+
+![Download history](https://raw.githubusercontent.com/yut0takagi/obsidian-plugin-stats-badge/main/.github/stats/downloads.svg)
+
+*Real output, regenerated daily by [this repository's own workflow](.github/workflows/stats.yml).*
+
+Add it to your README with:
+
 ```markdown
 ![Downloads](https://raw.githubusercontent.com/<you>/<repo>/main/.github/stats/badge.svg)
 ![Download history](https://raw.githubusercontent.com/<you>/<repo>/main/.github/stats/downloads.svg)
 ```
-
-Here is this repository's own, updated daily by the workflow in
-[`.github/workflows/stats.yml`](.github/workflows/stats.yml):
-
-![Downloads](https://raw.githubusercontent.com/yut0takagi/obsidian-plugin-stats-badge/main/.github/stats/badge.svg)
-
-![Download history](https://raw.githubusercontent.com/yut0takagi/obsidian-plugin-stats-badge/main/.github/stats/downloads.svg)
 
 ## Usage
 
@@ -148,6 +149,11 @@ npm test                      # typecheck + unit tests
 npm run cli -- <plugin-id>    # run it locally
 npm run bundle                # rebuild dist/ (committed; a Node action runs dist/, not src/)
 ```
+
+Contributions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md), which covers the one
+thing that catches everyone: `dist/` is committed, and CI fails if it is stale.
+
+Release notes are in [CHANGELOG.md](CHANGELOG.md).
 
 ## Licence
 
