@@ -4,7 +4,7 @@
   "description": "Download badges and history charts for Obsidian community plugins, as a GitHub Action",
   "license": "MIT",
   "type": "module",
-  "engines": { "node": ">=20" },
+  "engines": { "node": ">=22.6" },
   "scripts": {
     "build": "tsc",
     "bundle": "ncc build src/action.ts -o dist --minify",

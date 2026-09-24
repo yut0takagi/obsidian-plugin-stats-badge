@@ -66,7 +66,7 @@ repository can carry its own.
 ## Inputs
 
 | Input | Default | Description |
-|---|---|---|
+| --- | --- | --- |
 | `plugin-id` | *required* | Plugin id from `manifest.json`. Several may be given, comma- or newline-separated. |
 | `output-dir` | `.github/stats` | Where the generated files are written. |
 | `backfill` | `true` | Reconstruct history from the upstream git log. Takes about two minutes, and only runs for plugins with no stored history. |
@@ -80,14 +80,14 @@ repository can carry its own.
 ## Outputs
 
 | Output | Description |
-|---|---|
+| --- | --- |
 | `total` | Combined downloads across every requested plugin. |
 | `totals` | JSON object of downloads per plugin id. |
 | `files` | Newline-separated list of files written. |
 
 ## Generated files
 
-```
+```text
 .github/stats/
 ├── badge.svg          # downloads | 2.1k
 ├── downloads.svg      # the history chart
@@ -132,6 +132,8 @@ The `releases.obsidian.md/stats/plugin` endpoint some older tools use now return
 object with HTTP 200. This action fails loudly rather than silently recording a day of zeroes.
 
 ## Development
+
+Requires Node 22.6 or newer, which is what runs the tests directly from TypeScript.
 
 ```bash
 npm install

@@ -57,5 +57,8 @@ outputs:
     description: Newline-separated list of files written.
 
 runs:
-  using: node20
+  # node20 is deprecated: GitHub already forces actions that declare it onto Node 24, and
+  # the official actions have moved. Declaring node24 keeps the runtime and the tests on
+  # the same version.
+  using: node24
   main: dist/index.js
