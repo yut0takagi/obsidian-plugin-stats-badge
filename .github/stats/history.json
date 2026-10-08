@@ -445,6 +445,10 @@
    {
     "date": "2026-10-07",
     "downloads": 1280
+   },
+   {
+    "date": "2026-10-08",
+    "downloads": 1321
    }
   ],
   "pptx-studio": [
@@ -595,6 +599,10 @@
    {
     "date": "2026-10-07",
     "downloads": 1193
+   },
+   {
+    "date": "2026-10-08",
+    "downloads": 1266
    }
   ],
   "meeting-detector": [
@@ -1117,6 +1125,10 @@
    {
     "date": "2026-10-07",
     "downloads": 409
+   },
+   {
+    "date": "2026-10-08",
+    "downloads": 414
    }
   ],
   "system-recording": [
@@ -1639,6 +1651,10 @@
    {
     "date": "2026-10-07",
     "downloads": 204
+   },
+   {
+    "date": "2026-10-08",
+    "downloads": 210
    }
   ],
   "share-hosted": [
@@ -2161,6 +2177,10 @@
    {
     "date": "2026-10-07",
     "downloads": 120
+   },
+   {
+    "date": "2026-10-08",
+    "downloads": 125
    }
   ],
   "flint-chart": [
@@ -2351,6 +2371,10 @@
    {
     "date": "2026-10-07",
     "downloads": 128
+   },
+   {
+    "date": "2026-10-08",
+    "downloads": 129
    }
   ]
  }
