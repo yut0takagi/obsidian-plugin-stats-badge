@@ -667,6 +667,10 @@
    {
     "date": "2026-10-16",
     "downloads": 1812
+   },
+   {
+    "date": "2026-11-28",
+    "downloads": 2058
    }
   ],
   "meeting-detector": [
@@ -1389,6 +1393,10 @@
    {
     "date": "2026-11-27",
     "downloads": 517
+   },
+   {
+    "date": "2026-11-28",
+    "downloads": 518
    }
   ],
   "system-recording": [
@@ -2895,6 +2903,10 @@
    {
     "date": "2026-11-27",
     "downloads": 283
+   },
+   {
+    "date": "2026-11-28",
+    "downloads": 284
    }
   ]
  }
